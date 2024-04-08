@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xebus", "xebus.csproj", "{909650F1-D65D-4730-BA87-2610D43B8AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buscodecity", "..\buscodecity\buscodecity.csproj", "{4B6FCB04-5561-422E-B714-68124642405A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909650F1-D65D-4730-BA87-2610D43B8AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909650F1-D65D-4730-BA87-2610D43B8AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909650F1-D65D-4730-BA87-2610D43B8AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909650F1-D65D-4730-BA87-2610D43B8AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B6FCB04-5561-422E-B714-68124642405A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B6FCB04-5561-422E-B714-68124642405A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B6FCB04-5561-422E-B714-68124642405A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B6FCB04-5561-422E-B714-68124642405A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298AFFE1-C472-4CB7-916A-47C111007C54}
+	EndGlobalSection
+EndGlobal
